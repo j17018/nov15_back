@@ -13,7 +13,6 @@ app = Flask(__name__)
 
 CORS(app)
 
------>  AIzaSyCSW0dvIvkKE6Rqv12Fa4SOKevLph_MTgA
 
 genai.configure(api_key="arriba")
 
